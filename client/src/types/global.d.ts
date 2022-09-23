@@ -7,3 +7,7 @@ declare namespace NodeJS {
     readonly NEXT_PUBLIC_SITE_NAME: string
   }
 }
+
+interface Window {
+  ethereum: any
+}

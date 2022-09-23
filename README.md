@@ -1,8 +1,8 @@
-# Boilerplate_Next
+# dapps-demo
 
 ## 概要
 
-Next.js × Chakra UI テンプレート
+dAppsのデモ開発
 
 ## 開発環境構築方法
 
